@@ -3,7 +3,7 @@ sudo apt-get update
 
 # Install required packages
 sudo apt-get install -y --no-install-recommends \
-	        freetds-bin \
+	    freetds-bin \
 		krb5-user \
 		ldap-utils \
 		libffi6 \
@@ -18,3 +18,6 @@ sudo apt-get install -y --no-install-recommends \
 
 # Install database client packages
 sudo apt-get install -y postgresql-client mysql-client
+
+# Install git
+sudo apt-get install -y git
