@@ -1,4 +1,4 @@
-on of Docker Compose to install
+#Version of Docker Compose to install
 VERSION="1.29.2"
 
 # Download the Docker Compose binary
